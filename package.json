@@ -1,0 +1,19 @@
+{
+  "name": "imgbb",
+  "version": "1.0.0",
+  "description": "imgbb image uploader",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.1.0",
+    "os": "^0.1.2",
+    "validator": "^13.7.0"
+  }
+}
